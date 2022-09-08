@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "testId": 1,
+    "testName": "Math",
+    "doneTest": "date",
+    "grade": 78,
+    "studentId": 1,
+    "isPassed": true
+  },
+  {
+    "id": 2,
+    "testId": [2],
+    "doneTest": "date",
+    "grade": 78,
+    "studentId": 2,
+    "isPassed": true
+  },
+  {
+    "id": 3,
+    "testId": 1,
+    "doneTest": "date",
+    "grade": 78,
+    "studentId": 3,
+    "isPassed": true
+  }
+]
